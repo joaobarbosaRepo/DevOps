@@ -1,0 +1,22 @@
+
+On the home page, We will have three button options.
+
+
+1- '/config/env'   2-'/env/variable/content'   3-'/list/running_software'
+
+
+each leads to their respective question.
+
+1- '/config/env'
+Create a python HTTP service that list all linux env_vars on the http endpoint localhost:8080/conf/env
+
+
+2-'/env/variable/content'
+Create a python script that recives a 2 parameter env_name, env_Var via HTTP and create a linux env_var. Endpoint: localhost:8080/env/$name/$v
+
+
+3-'/list/running_software'
+Create a python script that list all running software(PID and cmd) send the list to a slack channel.
+   
+
+feel free to browse through the options.
