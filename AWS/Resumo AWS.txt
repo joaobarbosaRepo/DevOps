@@ -138,9 +138,3 @@ O Amazon ElastiCache é um serviço de cache na memória totalmente gerenciado q
 
 
 
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 44840eaa58e049d11434e91224da5622e4c5b4b3
